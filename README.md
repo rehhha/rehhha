@@ -1,6 +1,6 @@
 Wellcome :)
 
-You can reach out to me at hkiveric@gmail.com
+I am currently taking courses on Web Development at [The Odin Project](https://www.theodinproject.com/). 
 
 <!---
 rehhha/rehhha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
