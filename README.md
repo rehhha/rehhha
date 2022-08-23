@@ -1,4 +1,4 @@
-Wellcome :)
+Welcome :)
 
 I am currently taking courses on Web Development at [The Odin Project](https://www.theodinproject.com/). 
 
